@@ -1,4 +1,4 @@
-# Cosas de la gerencia Ayesa
+# Análisis Gerencia Ayesa
 by @cderamond
 
 Hasta ahora:
